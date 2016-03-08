@@ -4,7 +4,7 @@
 
 Simple color and shapes educational game.
 
-It creates an AP on a ESP8266 with a IL9340 TFT (320x240px). t provides a web server with a simple page to choose shapes and colors.
+It creates an AP on a ESP8266 with a ILI9340 TFT (320x240px). t provides a web server with a simple page to choose shapes and colors.
 
 Selecting a shape and a color a preview is shown at same page, and that shape and color is displayed at TFT screen.
 
