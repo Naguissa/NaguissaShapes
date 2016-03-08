@@ -15,7 +15,7 @@ You need a browser connected to created AP (NaguissaShapes). You can use a compu
 
 Download file an open it using Arduino IDE. You can use Glenn Irwin original IL9340 library (removing the "_esp" suffix in include) or the verson provided with that program, proved to work.
 
-Electrical schema with a ESP201 is available here: http://wwwnaguissa_com/arduino/NaguissaShapes.png
+Electrical schema with a ESP201 is available here: http://wwwnaguissa.com/arduino/NaguissaShapes.png
 
 
 
