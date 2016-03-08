@@ -1,0 +1,2 @@
+Naguissa - Main - http://www.naguissa.com
+Glenn Irwin - Adafruit_ILI9340 port to ESP8266 - https://github.com/glennirwin/Adafruit_ILI9340
